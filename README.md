@@ -1,1 +1,2 @@
 # brotato-reinforcement_learning
+用于开发土豆兄弟的强化学习mod
